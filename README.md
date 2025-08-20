@@ -46,4 +46,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Jeevannn11/SRS-UDIS.git
+   git clone https://github.com/Jeevannn11/-University-Department-Information-System-UDIS-.git
+
