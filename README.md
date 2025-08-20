@@ -1,9 +1,9 @@
 # 🎓 University Department Information System (UDIS) - SRS
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Jeevannn11/SRS-UDIS?color=blue)
-![GitHub contributors](https://img.shields.io/github/contributors/Jeevannn11/SRS-UDIS?color=green)
-![GitHub last commit](https://img.shields.io/github/last-commit/Jeevannn11/SRS-UDIS?color=yellow)
-![GitHub license](https://img.shields.io/github/license/Jeevannn11/SRS-UDIS?color=orange)
+![GitHub repo size](https://img.shields.io/github/repo-size/Jeevannn11/-University-Department-Information-System-UDIS-?color=blue)
+![GitHub contributors](https://img.shields.io/github/contributors/Jeevannn11/-University-Department-Information-System-UDIS-?color=green)
+![GitHub last commit](https://img.shields.io/github/last-commit/Jeevannn11/-University-Department-Information-System-UDIS-?color=yellow)
+![GitHub license](https://img.shields.io/github/license/Jeevannn11/-University-Department-Information-System-UDIS-?color=orange)
 
 ---
 
@@ -33,10 +33,9 @@ This repository contains the **Software Requirements Specification (SRS)** docum
 ---
 
 ## 👩‍💻 Contributors
-- Prapti Prachita Pradhan (122CS0096)  
-- Archita Dutta (122CS0076)  
+  
 - Jeevan Tadwal (122CS0116)  
-- Dharavath Likitha (122CS0296)  
+
 
 ---
 
