@@ -1,4 +1,4 @@
-# 🎓 University Department Information System (UDIS) - SRS
+#  University Department Information System (UDIS) - SRS
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Jeevannn11/-University-Department-Information-System-UDIS-?color=blue)
 ![GitHub contributors](https://img.shields.io/github/contributors/Jeevannn11/-University-Department-Information-System-UDIS-?color=green)
@@ -7,13 +7,13 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 The **University Department Information System (UDIS)** is a web-based solution designed to streamline academic and administrative operations.  
 This repository contains the **Software Requirements Specification (SRS)** document of the project.
 
 ---
 
-## 📂 Documentation
+##  Documentation
 - 📖 [Introduction](docs/01-introduction.md)  
 - 🏛 [Overall Description](docs/02-overall-description.md)  
 - ⚙️ [Requirements Specification](docs/03-requirements-spec.md)  
@@ -24,7 +24,7 @@ This repository contains the **Software Requirements Specification (SRS)** docum
 
 ---
 
-## 🛠 Tech Stack (Proposed System)
+##  Tech Stack (Proposed System)
 - **Frontend:** React.js  
 - **Backend:** Node.js + Express.js  
 - **Database:** MongoDB  
@@ -32,18 +32,18 @@ This repository contains the **Software Requirements Specification (SRS)** docum
 
 ---
 
-## 👩‍💻 Contributors
+##  Contributors
   
 - Jeevan Tadwal (122CS0116)  
 
 ---
 
-## 📜 License
+##  License
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 1. Clone the repository:
    ```bash
    git clone https://github.com/Jeevannn11/-University-Department-Information-System-UDIS-.git
